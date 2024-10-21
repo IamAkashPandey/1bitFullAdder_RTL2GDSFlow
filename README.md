@@ -33,13 +33,10 @@ Physical Design:
 
 Floorplanning, placement, and routing were completed using Innovus.
 Detailed routing and Design Rule Check (DRC) were performed to ensure manufacturability.
-Verification:
-
 Logic equivalence checks (LEC) were performed using Conformal to ensure that the gate-level netlist matched the RTL description.
 Static timing analysis ensured that the design met performance goals.
 Tapeout:
-
-The final GDSII file was generated, marking the end of the back-end design process. This file is ready for chip fabrication.
+The final GDSII file was generated, marking the end of the back-end design process.
 Project Structure
 /src: Contains the RTL code for the Full Adder.
 /simulation: Includes the testbenches and simulation results.
