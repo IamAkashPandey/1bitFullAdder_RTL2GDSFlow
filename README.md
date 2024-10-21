@@ -31,7 +31,7 @@ The RTL code was synthesized into a gate-level netlist using Cadence Genus.
 Timing, power, and area optimizations were conducted.
 Physical Design:
 
-Floorplanning, placement, clock tree synthesis (CTS), and routing were completed using Innovus.
+Floorplanning, placement, and routing were completed using Innovus.
 Detailed routing and Design Rule Check (DRC) were performed to ensure manufacturability.
 Verification:
 
